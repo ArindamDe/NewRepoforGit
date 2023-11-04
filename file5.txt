@@ -1,1 +1,2 @@
 This line is in file5.txt.
+Newly added line.
